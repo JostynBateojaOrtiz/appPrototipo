@@ -1,0 +1,11 @@
+# npm init -y
+# npm install express --save
+# npm install express-handlebars --save
+# npm install mysql --save
+# npm install knex --save
+
+node --watch app.js
+
+#npm install express express-handlebars mysql knex --save
+
+npm install
